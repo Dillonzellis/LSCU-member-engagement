@@ -363,14 +363,25 @@
                                     <div class="acc_head">YP Think Tank</div>
                                     <div class="acc_content" style="line-height:1.5; font-size:1.5rem">
 
-                                        <p><img src="../images/yp-think-tank22-cropped.png" alt="YP Think Tank 2022" width="478" height="auto"></p>
+                                        <div class="img-wrapper" style="display: flex; justify-content: center; margin-bottom: 1em;">
+                                            <img src="../images/yp-think-tank22-cropped.png" alt="YP Think Tank 2022" width="478" height="auto">
+                                        </div>
+
 
                                         <p><strong style="color:#2a5a72">2022 YP Think Tank:</strong> Expanded based on your feedback to an optional two-day event!</p>
 
                                         <p><strong style="color:#2a5a72">Friday, September 30:</strong> Registration begins 12:30pm EST followed by Day 1 sessions & YP Happy</p>
                                         <p><strong style="color:#2a5a72">Saturday, October 1:</strong> Registration and breakfast begins 8:00am EST with conference concluding by 3pm EST</p>
 
-                                        <p><a href="think-tank-reg.php">Register and book your</a> room for YP Think Tank 2022 now!</p>
+                                        <p><strong style="color: #2a5a72;">Thank you to our 2022 Think Tank Host Credit Union: Vystar Credit Union</strong></p>
+
+                                        <p><strong style="color: #2a5a72;">Event Location:</strong> Vystar Tower: 76 S. Laura Street, Jacksonville, FL 32202</p>
+
+                                        <div class="btn-wrapper" style="display: flex; justify-content: center; margin-top: 1.5em;">
+
+                                            <a href="https://lscu.coop/member-engagement/think-tank-reg.php" class="btn" style="color: #fff; text-decoration: none !important; border-radius: 100vmax; background: #2A5A72; color: #fff; text-decoration: none;">Register And Book Your Room</a>
+
+                                        </div>
 
                                     </div>
                                 </div>
